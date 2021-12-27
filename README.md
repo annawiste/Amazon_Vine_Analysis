@@ -13,3 +13,5 @@ The results are compiled in the following dataframe.
 - Therefore 38.2% of Vine reviews and 54.5% of non-Vine reviews were 5 star ratings. 
 
 ## Summary
+There does not appear to be a bias towards positive reviews with paid Vines in this dataset, at least not with respect to the highest ratings. In fact, over 50% of the non-Vine reviews were 5 stars, while only a little over a third of Vine reviews were. 
+It would be important to examine the entire distribution of ratings as well though. Four star reviews would also be quite helpful. Also, it could be the case that Vine reviews are less likely to be negative. Without external motivation (e.g. payment) individuals tend to put in the effort to do reviews when they feel strongly, positively or negatively about a product/experience. If paid Vines include higher rates of 3 or 4 star reviews, and lower rates of 1 star, that would result in an overall increased positivity in those reviews. 
